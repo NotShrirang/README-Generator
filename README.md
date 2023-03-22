@@ -8,6 +8,11 @@ Requirements:
 ```
 pip install openai
 ```
+
+```
+pip install streamlit
+```
+
 2. secrets.json - You need account and api key from <a href="https://beta.openai.com/docs/quickstart/add-your-api-key">https://beta.openai.com/docs/quickstart/add-your-api-key</a>
 3. JSON format -
 ```
